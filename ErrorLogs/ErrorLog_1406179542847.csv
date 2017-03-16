@@ -1,0 +1,7 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\ブロック崩し提出物\brolebreak_move, 2014-07-24 14:25:42.847
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{*| =},Syntax error on token "*"^ = expected
+ParsingError,{+=| ++},Syntax error on token "+="^ ++ expected
+ParsingErrorInsertTokenAfter,{{| Expression},Syntax error on token "{"^ Expression expected after this token
